@@ -27,7 +27,8 @@ Dart SDK Version 2.17.0 or greater.
 Flutter SDK Version 3.0.0 or greater.
 
 ### Screenshots
-![Razorpay](https://user-images.githubusercontent.com/84910116/190324321-1bb39ef9-0eba-408c-99aa-da22f7e6f432.png)
+![Razorpay (1)](https://user-images.githubusercontent.com/53862415/190334895-56aca7ba-e06d-4f53-9a5e-55ab924823da.png)
+
 
 ### Figma design guideline for better accuracy
 
